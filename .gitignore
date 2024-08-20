@@ -1,6 +1,8 @@
 /bitrix/*
 /upload/
+/vendor/
 
 /.idea
 
 *.zip
+*.rar
